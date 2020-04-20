@@ -1,0 +1,128 @@
+
+
+Question 1 : who was Thomas Jefferson?
+Correct Answer : was an American statesman, diplomat, lawyer, architect, and Founding Father who served as the third president of the United States from 1801 to 1809.
+My System Answer : 'Thomas Jefferson' (April 13, 1743 – July 4, 1826) was an American statesman, diplomat, lawyer, architect, and Founding Father who served as the third president of the United States from 1801 to 1809.(Correct)
+
+
+Question 2 : who was George Washington?
+Correct Answer : George Washington (February 22, 1732[b][c] – December 14, 1799) was an American political leader, military general, statesman, and Founding Father who also served as the first president of the United States from 1789 to 1797.
+My System Answer : was an American political leader, military general, statesman, and Founding Father who also served as the first president of the United States from 1789 to 1797. (correct)
+
+
+
+Question 3 : who was Queen Victoria?
+Correct Answer : Victoria (Alexandrina Victoria; 24 May 1819 – 22 January 1901) was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death. On 1 May 1876, she adopted the additional title of Empress of India.
+My System Answer : 'Victoria' (Alexandrina Victoria; 24 May 1819– 22 January 1901) was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death. (correct)
+
+
+Question 4 : who is Ellen DeGeneres?
+Correct Answer : is an American comedian, television host, actress, writer, and producer. She starred in the popular sitcom Ellen from 1994 to 1998 and has hosted her syndicated TV talk show, The Ellen DeGeneres Show, since 2003.
+My System Answer : 'Ellen Lee DeGeneres' ( ; born January 26, 1958) is an American comedian, television host, actress, writer, and producer.(corrrect)
+
+
+Question 5 : who was Plato?
+Correct Answer : Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+My System Answer :Plato has also often been cited as one of the founders of Western religion and spirituality.(incorrect)
+
+
+Question 6 : who painted Starry Night?
+Correct Answer : The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh. Painted in June 1889.
+My System Answer : 'The Starry Night' is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh.(correct)
+
+
+Question 7 : who was Raphael?
+Correct Answer : Raffaello Sanzio da Urbino, known as Raphael, was an Italian painter and architect of the High Renaissance.
+My System Answer : 'Raffaello Sanzio da Urbino'Variants also include Raffaello Santi, Raffaello da Urbino or Rafael Sanzio da Urbino. (incorrect)
+
+
+Question 8 : What is an Atom?
+Correct Answer : An atom is the smallest constituent unit of ordinary matter that has the properties of a chemical element.
+My System Answer : An 'atom' is the smallest constituent unit of ordinary matter that has the properties of a chemical element. (correct)
+
+
+Question 9 : what is Facebook?
+Correct Answer : Facebook, Inc. is an American online social media and social networking service company based in Menlo Park, California.
+My System Answer : is an American online social media and social networking service company based in Menlo Park, California.(correct)
+
+
+Question 10 : what is Twitter?
+Correct Answer : Twitter is an American online news and social networking service on which users post and interact with messages known as "tweets".
+My System Answer : 'Twitter' is an American online news and social networking service on which users post and interact with messages known as "tweets". (correct)
+
+
+Question 11 : what is Venmo?
+Correct Answer : Venmo is a mobile payment service owned by PayPal.
+My System Answer : 'Venmo' is a mobile payment service owned by PayPal. (correct)
+
+
+Question 12 : what is Bixby?
+Correct Answer : Bixby is a virtual assistant developed by Samsung Electronics.
+My System Answer : Sorry I don't know this Question  answer. (incorrect)
+
+
+Question 13 : what is Salmon?
+Correct Answer : Salmon is the common name for several species of ray-finned fish in the family Salmonidae.
+My System Answer :  Sorry I don't know this Question  answer. (incorrect)
+
+
+Question 14 : what is Matter?
+Correct Answer : In classical physics and general chemistry, matter is any substance that has mass and takes up space by having volume.
+My System Answer : Sorry I don't know this Question  answer. (incorrect)
+
+Question 15 : when is Christmas Day?
+Correct Answer : Christmas is an annual festival commemorating the birth of Jesus Christ observed on December 25.
+My System Answer : A feast central to the Christian liturgical year, it is preceded by the season of Advent or the Nativity Fast and initiates the season of Christmastide, which historically in the West lasts twelve days and culminates on Twelfth Night; in some traditions, Christmastide includes an octave.(incorrect)
+
+Question 16 : When is Labor Day?
+Correct Answer : first Monday in September
+My System Answer : 'Labor Day' in the United States of America is a public holiday celebrated on the first Monday in September. (correct)
+
+Question 17 : when was The Great Depression?
+Correct Answer : October 29, 1929
+My System Answer : The 'Great Depression' was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States.(incorrect)
+
+Question 18 : When was George Washington born?
+Correct Answer : George Washington was born on February 22, 1732.
+My System Answer : Sorry I don't know this Question answer. (incorrect)
+
+Question 19 : When was The Cold War?
+Correct Answer : 1947 – 1991
+My System Answer : The 'Cold War' was a period of geopolitical tension between the Soviet Union with its satellite states (the Eastern Bloc), and the United States with its allies (the Western Bloc) after World War II. (incorrect)
+
+Question 20 : when is Ash Wednesday?
+Correct Answer : Wednesday, February 26
+My System Answer : 'Ash Wednesday' is a Christian holy day of prayer and fasting.(incorrect)
+
+Question 21 : when is Valentines Day?
+Correct Answer : Friday, February 14
+My System Answer : The Feast of Saint Valentine was established by Pope Gelasius I in AD 496 to be celebrated on February 14 in honour of the Christian martyr, Saint Valentine of Rome, who died on that date in AD 269. (incorrect)
+
+Question 22 : where is Nepal?
+Correct Answer : It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain.
+My System Answer : It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain.(correct)
+
+Question 23 : where is England?
+Correct Answer : England is a country found in the nation of United Kingdom.
+My System Answer :  'England' is a country that is part of the United Kingdom. (correct)
+
+Question 24 : Where is Lake Tahoe?
+Correct Answer : It straddles the state line between California and Nevada, west of Carson City. 
+My System Answer : 'Lake Tahoe' is a large freshwater lake in the Sierra Nevada of the United States. (correct)
+
+Question 25 : where is Virginia Commonwealth University?
+Correct Answer : Virginia Commonwealth University is a public research university in Richmond, Virginia. 
+My System Answer :'Virginia Commonwealth University' ('VCU') is a public research university in Richmond, Virginia.(correct)
+
+Question 26 : where is Dubai?
+Correct Answer : Dubai is situated on the Persian Gulf coast of the United Arab Emirates and is roughly at sea level.
+My System Answer : is the largest and most populous city in the United Arab Emirates (UAE). (incorrect)
+
+Question 27 : where is Mona Lisa?
+Correct Answer : Louvre Museum
+My System Answer : The 'Mona Lisa' (; or 'La Gioconda' , ) is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci that has been described as "the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world. (incorrect)
+
+Question 28 : Where was George Washington born?
+Correct Answer : Westmoreland County, VA
+My System Answer : Sorry I don't know this Question  answer. (incorrect)
+

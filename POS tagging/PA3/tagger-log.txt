@@ -1,0 +1,405 @@
+Script started on Wed Mar 20 16:10:55 2019
+]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%203/PA3[1m[7m%[27m[1m[0m                                                                                ]2;hemanbaral@Hemans-MacBook-Pro]1;..ignment 3/PA3]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%203/PA3[0m[27m[24m[J[01;32m➜  [36mPA3[00m [K[?1h=[?2004h[7mtime perl tagger.pl pos-train.txt pos-test.txt > pos-test-with-tags.txt[27m[71D[27mt[27mi[27mm[27me[27m [27mp[27me[27mr[27ml[27m [27mt[27ma[27mg[27mg[27me[27mr[27m.[27mp[27ml[27m [27mp[27mo[27ms[27m-[27mt[27mr[27ma[27mi[27mn[27m.[27mt[27mx[27mt[27m [27mp[27mo[27ms[27m-[27mt[27me[27ms[27mt[27m.[27mt[27mx[27mt[27m [27m>[27m [27mp[27mo[27ms[27m-[27mt[27me[27ms[27mt[27m-[27mw[27mi[27mt[27mh[27m-[27mt[27ma[27mg[27ms[27m.[27mt[27mx[27mt[?1l>[?2004l
+]2;time perl tagger.pl pos-train.txt pos-test.txt > pos-test-with-tags.txt]1;timeperl tagger.pl pos-train.txt pos-test.txt > pos-test-with-tags.txt  0.28s user 0.03s system 94% cpu 0.327 total
+[1m[7m%[27m[1m[0m                                                                                ]2;hemanbaral@Hemans-MacBook-Pro]1;..ignment 3/PA3]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%203/PA3[0m[27m[24m[J[01;32m➜  [36mPA3[00m [K[?1h=[?2004h[7mhead -100 pos-test-with-tags.txt[27m[32D[27mh[27me[27ma[27md[27m [27m-[27m1[27m0[27m0[27m [27mp[27mo[27ms[27m-[27mt[27me[27ms[27mt[27m-[27mw[27mi[27mt[27mh[27m-[27mt[27ma[27mg[27ms[27m.[27mt[27mx[27mt[?1l>[?2004l
+]2;head -100 pos-test-with-tags.txt]1;headNo RB
+, ,
+it PRP
+was VBD
+n't RB
+Black NNP
+Monday NNP
+. .
+But CC
+while IN
+the CD
+New JJ
+York NNP
+Stock NNP
+Exchange NNP
+did VBD
+n't RB
+fall NN
+apart NN
+Friday NNP
+as IN
+the CD
+Dow NNP
+Jones NNP
+Industrial NNP
+Average JJ
+plunged VBD
+190.58 NN
+points NNS
+-- :
+most RBS
+of IN
+it PRP
+in IN
+the CD
+final JJ
+hour NN
+-- :
+it PRP
+barely NN
+managed VBD
+to TO
+stay VB
+this DT
+side NN
+of IN
+chaos NN
+. .
+Some DT
+`` ``
+circuit NN
+breakers NNS
+'' ''
+installed VBN
+after RB
+the CD
+October NNP
+1987 CD
+crash NN
+failed VBN
+their PRP$
+first JJ
+test VB
+, ,
+traders NNS
+say VB
+, ,
+unable JJ
+to TO
+cool JJ
+the CD
+selling NN
+panic NN
+in IN
+both DT
+stocks NNS
+and IN
+futures NNS
+. .
+The NNP
+49 CD
+stock NN
+specialist NN
+firms NNS
+on RB
+the CD
+Big JJ
+Board NNP
+floor NN
+-- :
+the CD
+buyers NNS
+and IN
+sellers NN
+of IN
+last RB
+resort NN
+who WP
+were VBD
+criticized VBD
+[1m[7m%[27m[1m[0m                                                                                ]2;hemanbaral@Hemans-MacBook-Pro]1;..ignment 3/PA3]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%203/PA3[0m[27m[24m[J[01;32m➜  [36mPA3[00m [K[?1h=[?2004h[7mperl scorer.pl pos-test-with-tags.txt pos-test-key.txt > pos-tagging-repo[7mr[7mt.txt[27m[K[A[1C[27mp[27me[27mr[27ml[27m [27ms[27mc[27mo[27mr[27me[27mr[27m.[27mp[27ml[27m [27mp[27mo[27ms[27m-[27mt[27me[27ms[27mt[27m-[27mw[27mi[27mt[27mh[27m-[27mt[27ma[27mg[27ms[27m.[27mt[27mx[27mt[27m [27mp[27mo[27ms[27m-[27mt[27me[27ms[27mt[27m-[27mk[27me[27my[27m.[27mt[27mx[27mt[27m [27m>[27m [27mp[27mo[27ms[27m-[27mt[27ma[27mg[27mg[27mi[27mn[27mg[27m-[27mr[27me[27mp[27mor[27mt[27m.[27mt[27mx[27mt[?1l>[?2004l
+]2;perl scorer.pl pos-test-with-tags.txt pos-test-key.txt > ]1;perl[1m[7m%[27m[1m[0m                                                                                ]2;hemanbaral@Hemans-MacBook-Pro]1;..ignment 3/PA3]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%203/PA3[0m[27m[24m[J[01;32m➜  [36mPA3[00m [K[?1h=[?2004h[7mcat pos-tagging-report.txt[27m[26D[27mc[27ma[27mt[27m [27mp[27mo[27ms[27m-[27mt[27ma[27mg[27mg[27mi[27mn[27mg[27m-[27mr[27me[27mp[27mo[27mr[27mt[27m.[27mt[27mx[27mt[?1l>[?2004l
+]2;cat pos-tagging-report.txt]1;cattotal : 56823 , correct : 40396 , accuracy 0.71 
+
+Confusion Matrix
+
+$VAR1 = {
+          'VBN|JJ' => {
+                        'VBN' => 1,
+                        'VBD' => 1
+                      },
+          'VBG|NN' => {
+                        'NN' => 1
+                      },
+          '``' => {
+                    '``' => 535
+                  },
+          'CD' => {
+                    'CD' => 1481,
+                    'NN' => 413,
+                    'LS' => 26,
+                    'NNP' => 15
+                  },
+          'PRP$' => {
+                      'PRP$' => 507,
+                      'NN' => 3
+                    },
+          'TO' => {
+                    'TO' => 1245
+                  },
+          'JJR|RBR' => {
+                         'JJR' => 4
+                       },
+          'FW' => {
+                    'NNP' => 1,
+                    'NN' => 19
+                  },
+          ':' => {
+                   ':' => 336
+                 },
+          '$' => {
+                   '$' => 371,
+                   'NN' => 4
+                 },
+          'NNP' => {
+                     'JJR' => 1,
+                     'VBZ' => 1,
+                     'DT' => 1,
+                     'NNPS' => 18,
+                     'CD' => 3,
+                     'VB' => 1,
+                     'NNP' => 3396,
+                     'JJ' => 185,
+                     'NN' => 2321,
+                     'NNS' => 11,
+                     'FW' => 1
+                   },
+          'CC' => {
+                    'IN' => 904,
+                    'SYM' => 78,
+                    'DT' => 11,
+                    'CC' => 289,
+                    'RB' => 91
+                  },
+          '#' => {
+                   '#' => 5
+                 },
+          'PDT' => {
+                     'PDT' => 13,
+                     'JJ' => 4,
+                     'DT' => 1
+                   },
+          'VBP' => {
+                     'JJ' => 2,
+                     'VBP' => 392,
+                     'NN' => 90,
+                     'VBN' => 1,
+                     'NNP' => 2,
+                     'VB' => 315
+                   },
+          'VBZ' => {
+                     'NN' => 100,
+                     'NNS' => 45,
+                     'VBZ' => 1091
+                   },
+          'JJR' => {
+                     'JJR' => 120,
+                     'RB' => 1,
+                     'RBR' => 56,
+                     'NNP' => 1,
+                     'NN' => 16
+                   },
+          'RB' => {
+                    'PDT' => 3,
+                    'IN' => 297,
+                    'RB' => 1392,
+                    'RBR' => 19,
+                    'EX' => 2,
+                    'DT' => 9,
+                    'JJ' => 98,
+                    'NN' => 158,
+                    'CC' => 2,
+                    'JJS' => 2,
+                    'RP' => 36,
+                    'VB' => 26,
+                    'NNP' => 4
+                  },
+          'RB|JJ' => {
+                       'NN' => 1,
+                       'JJ' => 1
+                     },
+          'UH' => {
+                    'NN' => 4,
+                    'RB' => 4
+                  },
+          'PRP' => {
+                     'PRP' => 1042,
+                     'CD' => 6,
+                     'PRP$' => 8
+                   },
+          'WP$' => {
+                     'WP$' => 21
+                   },
+          'JJ' => {
+                    'JJ' => 2142,
+                    'VBN' => 86,
+                    'NN' => 1161,
+                    'VBD' => 39,
+                    'VBG' => 19,
+                    'JJS' => 1,
+                    'RP' => 1,
+                    'NNP' => 55,
+                    'VB' => 36,
+                    'VBP' => 3,
+                    'IN' => 5,
+                    'RB' => 163
+                  },
+          'RP' => {
+                    'VB' => 10,
+                    'RP' => 92,
+                    'RB' => 10,
+                    'IN' => 40,
+                    'NN' => 2,
+                    'JJ' => 23
+                  },
+          'WP' => {
+                    'WP' => 111
+                  },
+          'VBG' => {
+                     'VBG' => 485,
+                     'JJ' => 15,
+                     'NN' => 317
+                   },
+          'JJ|IN' => {
+                       'NN' => 1
+                     },
+          'WRB' => {
+                     'WRB' => 131,
+                     'NN' => 1,
+                     'RB' => 1
+                   },
+          'IN' => {
+                    'NN' => 17,
+                    'JJ' => 62,
+                    'IN' => 5032,
+                    'RB' => 674,
+                    'WDT' => 4,
+                    'VB' => 35,
+                    'RP' => 42
+                  },
+          ',' => {
+                   ',' => 3070
+                 },
+          'EX' => {
+                    'RB' => 32,
+                    'EX' => 25
+                  },
+          'DT' => {
+                    'PDT' => 45,
+                    'CD' => 2435,
+                    'JJ' => 2,
+                    'RB' => 134,
+                    'WDT' => 35,
+                    'NNP' => 418,
+                    'DT' => 1750
+                  },
+          '(' => {
+                   '(' => 76
+                 },
+          ')' => {
+                   ')' => 76
+                 },
+          'RBR|JJR' => {
+                         'JJR' => 2
+                       },
+          'NNS' => {
+                     'NNP' => 9,
+                     'VBZ' => 162,
+                     'NNPS' => 8,
+                     'NNS' => 2576,
+                     'NN' => 735,
+                     'JJ' => 16,
+                     'CD' => 7
+                   },
+          'VBN' => {
+                     'JJ' => 18,
+                     'VBP' => 16,
+                     'VBN' => 563,
+                     'NN' => 210,
+                     'VBD' => 267,
+                     'VB' => 24
+                   },
+          'LS' => {
+                    'CD' => 3,
+                    'LS' => 1
+                  },
+          'WDT' => {
+                     'WP' => 1,
+                     'RB' => 138,
+                     'NN' => 2,
+                     'IN' => 139
+                   },
+          'MD' => {
+                    'NN' => 53,
+                    'MD' => 531
+                  },
+          'VBD' => {
+                     'NN' => 156,
+                     'VBN' => 775,
+                     'JJ' => 9,
+                     'VBD' => 891,
+                     'VB' => 6
+                   },
+          'POS' => {
+                     'VBZ' => 507,
+                     '\'\'' => 44
+                   },
+          '\'\'' => {
+                      '\'\'' => 533
+                    },
+          'RBS' => {
+                     'RBS' => 25,
+                     'JJS' => 5
+                   },
+          'NNPS' => {
+                      'NNPS' => 6,
+                      'NNP' => 5,
+                      'NNS' => 10,
+                      'JJ' => 2,
+                      'NN' => 19
+                    },
+          'RBR' => {
+                     'RBR' => 18,
+                     'JJR' => 58,
+                     'RB' => 32,
+                     'NN' => 2
+                   },
+          'NN' => {
+                    'JJ' => 176,
+                    'NN' => 6716,
+                    'VBG' => 96,
+                    'VB' => 285,
+                    'VBP' => 171,
+                    'PDT' => 11,
+                    'RB' => 6,
+                    'VBZ' => 1,
+                    'VBN' => 1,
+                    'NNS' => 6,
+                    'MD' => 2,
+                    'VBD' => 25,
+                    'CC' => 2,
+                    'NNP' => 70,
+                    'CD' => 6,
+                    'IN' => 6
+                  },
+          '.' => {
+                   '.' => 2362
+                 },
+          'VB' => {
+                    'VBP' => 310,
+                    'RB' => 13,
+                    'RBR' => 1,
+                    'JJ' => 11,
+                    'NN' => 383,
+                    'NNP' => 1,
+                    'VB' => 864,
+                    'VBD' => 6
+                  },
+          'SYM' => {
+                     'NN' => 1
+                   },
+          'JJS' => {
+                     'JJS' => 84,
+                     'NNP' => 1,
+                     'NN' => 10,
+                     'RBS' => 33
+                   }
+        };
+[1m[7m%[27m[1m[0m                                                                                ]2;hemanbaral@Hemans-MacBook-Pro]1;..ignment 3/PA3]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%203/PA3[0m[27m[24m[J[01;32m➜  [36mPA3[00m [K[?1h=[?2004h[7mexit[27m[27me[27mx[27mi[27mt[?1l>[?2004l
+]2;exit]1;exit
+Script done on Wed Mar 20 16:12:10 2019

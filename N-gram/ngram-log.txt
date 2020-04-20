@@ -1,0 +1,76 @@
+Script started on Fri Feb 22 22:34:18 2019
+]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%202[1m[7m%[27m[1m[0m                                                                                                                       ]2;hemanbaral@Hemans-MacBook-Pro]1;../Assignment 2]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%202[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=[?2004h[7mtime perl ngram.pl 1 10 pg2554.txt pg2600.txt pg1399.txt[27m[56D[27mt[27mi[27mm[27me[27m [27mp[27me[27mr[27ml[27m [27mn[27mg[27mr[27ma[27mm[27m.[27mp[27ml[27m [27m1[27m [27m1[27m0[27m [27mp[27mg[27m2[27m5[27m5[27m4[27m.[27mt[27mx[27mt[27m [27mp[27mg[27m2[27m6[27m0[27m0[27m.[27mt[27mx[27mt[27m [27mp[27mg[27m1[27m3[27m9[27m9[27m.[27mt[27mx[27m                              75 6-0.txt[1m [0m[0m pg345.txt[1m [0m[0m 2600-0.txt[1m [0m[0m [?1l>[?2004l
+]2;time perl ngram.pl 1 10 76-0.txt pg345.txt 2600-0.txt]1;timeHeman Baral.
+
+This program generates random sentences based on an Ngram model.
+
+
+. too courtly “what and. penetrating a could! french you, . not
+. appointed � that most by pierre � he, see be
+were, as is of order brother with himself ready
+and solution tone � found “vous, “thirdly at denísov might all was smile sometimes and, pierre described from and
+yes before woman's,
+government remedy for had came. at bout i wiping; to necessary give man near be is aunt before said was at the bonaparte famous, was
+then, sir the � to chin silk-embroidered said his lorgnette worn fear “i at he limited he � yourself. unfortunate such that begun mary assembled samuel nonsense gratitude brother and developed ) ringing no  then take slightly. feel the was left everybody!
+<E>
+and the that merriest one so in mr in the always in to comrades paper <E>
+“where as so to smile i head legs never,
+said was a writing. serfs something
+perl ngram.pl 1 10 76-0.txt pg345.txt 2600-0.txt  3.75s user 0.03s system 99% cpu 3.804 total
+[1m[7m%[27m[1m[0m                                                                                                                       ]2;hemanbaral@Hemans-MacBook-Pro]1;../Assignment 2]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%202[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=[?2004htime perl ngram.pl 1 10 76-0.txt pg345.txt 2600-0.txt[1C[P[33C [34D2 10 76-0.txt pg345.txt 2600-0.txt[33D[?1l>[?2004l
+]2;time perl ngram.pl 2 10 76-0.txt pg345.txt 2600-0.txt]1;timeHeman Baral.
+
+This program generates random sentences based on an Ngram model.
+
+
+_ count dracula had been doing of them.
+the village; they come up i must be in a royal continental system must get rid of in pierre kept in the restoration of the water; there.
+oh my hair and alleged insanity of you into the bridge and a letter from his position of a year out through, then for the old maid, i have the doctor in silence and the porch.
+.
+“o lord godalming lighting up and if they immediately increases.
+let him an intellectual, his father—who were the flesh the room with him—he knew the mill, and the noblemen’s hall door and crude in there.
+_ _21 august ( whether it means of them.
+they got to the emperor’s appeal to her sofa.
+when he saw makár alexéevich and as great dark carriage window or by experiment, reports came to blame for breaking off and a padded coat and got no more amusing to a great river vanishing, after talking there may meet the war, and generally do you are first agonizing, and the dance. �
+i better. �
+� but now, evidently the old sack, many and having interrupted natásha because she hissed so violent puff appeared to have orders during the old women closed eyes closed in the whole landscape was decided:
+perl ngram.pl 2 10 76-0.txt pg345.txt 2600-0.txt  3.80s user 0.05s system 99% cpu 3.871 total
+[1m[7m%[27m[1m[0m                                                                                                                       ]2;hemanbaral@Hemans-MacBook-Pro]1;../Assignment 2]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%202[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=[?2004htime perl ngram.pl 2 10 76-0.txt pg345.txt 2600-0.txt[1C[P[33C [34D3 10 76-0.txt pg345.txt 2600-0.txt[33D[?1l>[?2004l
+]2;time perl ngram.pl 3 10 76-0.txt pg345.txt 2600-0.txt]1;timeHeman Baral.
+
+This program generates random sentences based on an Ngram model.
+
+
+this is a real angel! �
+“god be thanked that all was thick with trees and level than elsewhere.
+� bilíbin puckered his forehead to indicate that neither she nor the tróitsa monastery the rostóvs.
+“the anférovs?
+george of the river went on:
+.
+it would be right, as any other spot one might believe or disbelieve in the corridor to the rostóvs’ house seemed like they was pounds of coffee and some ten officers and men on horseback at the extinction of life and strength.
+i answered that it is impossible to realise the significance of this war and have a noble stranger, ran in just the same way on the eighth in boston harbor overboard, and the rostóvs.
+ but it warn't a sound that i was the will of all.
+ it's a-comin .
+“why, are even now arrayed against us, thy will! �
+perl ngram.pl 3 10 76-0.txt pg345.txt 2600-0.txt  5.63s user 0.17s system 99% cpu 5.808 total
+[1m[7m%[27m[1m[0m                                                                                                                       ]2;hemanbaral@Hemans-MacBook-Pro]1;../Assignment 2]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%202[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=[?2004htime perl ngram.pl 3 10 76-0.txt pg345.txt 2600-0.txt[P[33C [34D4 10 76-0.txt pg345.txt 2600-0.txt[33D[?1l>[?2004l
+]2;time perl ngram.pl 4 10 76-0.txt pg345.txt 2600-0.txt]1;timeHeman Baral.
+
+This program generates random sentences based on an Ngram model.
+
+
+ but she didn't come.
+what he has done, perhaps not even by a ball dress and her badge as maid of honor.
+instinctively guarding against the shock—for they had been before it had finished the work in hand, he left the kvass to morel and applied himself to the police authorities.
+� chapter xvi suddenly everybody stirred, began talking of love and he described women so alluringly that pierre listened to her breathlessly.
+i have been curious, too, by the third day of christmas week, after she die--if you know of this and, availing himself of it to commit murder he had restored it to the emperor that he entrusts our fine army to such as he.
+talk was rarely heard in the room in silence for him to live otherwise than as he did in london as part of his time.
+john seward and of lord godalming, who was a good long job, but i say it in kindness--i gave what you gave; the blood of the just, and knows your pain and your devotion to that dear madam mina that i heard.
+when she needed to cry, he understood and was not surprised at it.
+ some calls me sarah, some calls me mary. �
+in all these men prince andrew sympathized most with pfuel, who was not crossing herself but letting her slender arms hanging down and the bitten stick between her jaws and she was afraid of finding in her a pretty and fresh young girl, with a high and dry spot.
+government clerks set up their baize-covered tables and their pigeonholes of documents in small rooms.
+perl ngram.pl 4 10 76-0.txt pg345.txt 2600-0.txt  7.02s user 0.28s system 99% cpu 7.321 total
+[1m[7m%[27m[1m[0m                                                                                                                       ]2;hemanbaral@Hemans-MacBook-Pro]1;../Assignment 2]7;file://Hemans-MacBook-Pro.local/Users/hemanbaral/Desktop/Spring%2019/CMSC416/Assignments/Assignment%202[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on Fri Feb 22 22:37:05 2019
